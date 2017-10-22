@@ -274,7 +274,7 @@ h2
     width: 100%;
     margin: 0;
     padding: 10px 0;
-    padding-bottom: 18px;
+    padding-bottom: 15px;
     text-align: justify;
   }
   .temario, .calendario, .metodologia
@@ -285,4 +285,12 @@ h2
   {
     margin: 5px 0 10px 0;
   }
+  .boton-b{
+    display: flex;
+    justify-content: center;
+  }
+  .btn-guia {
+    border-radius: 6px;
+    padding: 5px 57px;
+}
 }
