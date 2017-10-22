@@ -288,8 +288,7 @@ h2
   .boton-b{
     display: flex;
     justify-content: center;
-  }
-  
+  } 
   .btn-guia {
     border-radius: 6px;
     padding: 5px 57px;
